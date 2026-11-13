@@ -31,10 +31,10 @@ BlinkClip 1.2 includes these actions: Trim, Convert, Compress, Resolution, Speed
 
 ## Download
 
-The current release is **BlinkClip 1.2**.
+The current release is **BlinkClip 1.2.1**, signed with Apple Developer ID and notarized by Apple.
 
-- [Download BlinkClip 1.2](https://github.com/IvanKudrenko/BlinkClip/releases/download/v1.2/BlinkClip-1.2.dmg)
-- [View the v1.2 release](https://github.com/IvanKudrenko/BlinkClip/releases/tag/v1.2)
+- [Download BlinkClip 1.2.1](https://github.com/IvanKudrenko/BlinkClip/releases/download/v1.2.1/BlinkClip-1.2.1.dmg)
+- [View the v1.2.1 release](https://github.com/IvanKudrenko/BlinkClip/releases/tag/v1.2.1)
 - [Open the official download page](https://blinkclip.baproj.com/download/)
 
 ## Documentation
